@@ -81,8 +81,6 @@ programming skills through practical exercises.
 Aarya Kumari
 
 ## Skills Practised
-
-- Python conditional statements
 - If, elif and else
 - Problem-solving
 - Writing beginner-friendly Python programs
