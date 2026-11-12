@@ -67,3 +67,15 @@ Example: `python height_classification.py`
 - **Q75 (taxi fare):** Rs. 50 covers the first 2 km, Rs. 15 per extra km up to 10 km, then Rs. 12 per km beyond 10 km.
 - **Q78 (project submission):** enter days before the deadline; use a negative number if late.
 - **Q83 (water bill):** each slab is charged only for the litres inside that slab.
+
+
+
+## About This Project
+
+This repository contains my Python practice programs.
+I am learning Python step by step and improving my
+programming skills through practical exercises.
+
+## Author
+
+Aarya Kumari
