@@ -79,3 +79,10 @@ programming skills through practical exercises.
 ## Author
 
 Aarya Kumari
+
+## Skills Practised
+
+- Python conditional statements
+- If, elif and else
+- Problem-solving
+- Writing beginner-friendly Python programs
